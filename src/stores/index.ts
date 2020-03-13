@@ -7,7 +7,7 @@ import logger from 'redux-logger'
 import taskModule from 'modules/taskModule'
 
 const rootReducer = combineReducers({
-  todos: taskModule.reducer,
+  task: taskModule.reducer,
 })
 
 export const setupStore = () => {

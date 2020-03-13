@@ -10,8 +10,8 @@ react-todo-app is a simple drag and drop todo list application built with [React
 
 ## Install
 
-1. `git clone https://github.com/genki-sano/react-ts-app.git`
-2. `cd react-ts-app`
+1. `git clone https://github.com/genki-sano/react-dnd-app.git`
+2. `cd react-dnd-app`
 3. `yarn install`
 
 ## Usage
